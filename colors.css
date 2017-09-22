@@ -1,0 +1,77 @@
+// Use ColorHelper plugin in Sublime to highlight the colors below
+
+// From 3.1 theme
+{
+:#536482 #333333;
+:#F5F7FA #e4ffc9; main page background
+:#115098 #ffffff;
+:#CADCEB #c4dcab;
+:#12A3EB #798c66;
+:#0076B1 #91A380;
+:#ECF3F7 #fff;
+:#E1EBF2 #e0edd3;
+:#CFE1F6 #e0edd3;
+:#0075B0 #b7cca1;
+:#C7C3BF #c7c2c1;
+:#0A8ED0 #6daf25;
+:#11A3EA #b7cca1;
+:#6ACEFF #7d9169;
+:#AABAC6 #c3cdb9;
+:#A8D8FF #FFFF7D;
+:#ECF1F3 #b1d190;
+:#EEF5F9 #fefffc; inner box bottom-gradient
+:#D2E0EB #dae0d5;
+:#B4C4D1 #c3cdb9;
+:#BACCD9 #cad3c1;
+:#DDEDFB #f9faf8;
+:#D31141 #bc2a4d;
+:#E2F2FF #f9faf8;
+:#B4BAC0 #b4bac0;
+:#A4B3BF #778c61;
+:#B2C2CF #c3cdb9;
+:#4692BF #444c3c;
+:#428bca #444c3c;
+:#2a6496 #000;
+:#196db5 #444c3c;
+}
+
+// Remaining list
+{
+:#105289 #313F28; links to forums/topics
+:#28313F #313F28;
+:#5D8FBD #8FBD5D;
+:#D0E4F6 #E4F6D0;
+:#0D4473 #44730D;
+:#E6E9ED #E9EDE6;
+:#DCDEE2 #DEE2DC;
+:#E7E8EA #E8EAE7;
+:#BFC1CF #C1CFBF;
+:#1198D9 #98D911;
+:#F1F8FF #F8FFF1;
+:#4C5D77 #5D774C;
+:#C9D2D8 #D2D8C9;
+:#F2F6F9 #F6F9F2;
+:#ECEDEE #EDEEEC;
+:#b4bac0 #bac0b4;
+:#5C758C #758C5C;
+:#B5C1CB #C1CBB5;
+:#DBDEE2 #DEE2DB;
+:#425067 #506742;
+:#A9B8C2 #B8C2A9;
+:#0F4987 #49870F;
+//:#368AD2 #8AD236; external links, better left blue
+}
+
+// Basic hue shift
+{
+:#00608F #608F00;
+:#0076b1 #758C5C;
+:#F2F9FF #F9FFF2;
+}
+
+rgba(17, 163, 234, 0.5)-rgba(163, 234, 17, 0.5);
+
+// Box
+{
+
+}
